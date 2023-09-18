@@ -1,0 +1,1 @@
+La classe MyApp étend le StatelessWidget. Les widgets sont les éléments que vous devez utiliser pour développer une application Flutter. Notez que l'application elle-même est un widget.
